@@ -1,0 +1,4 @@
+So babes if we're going to try to make a game, I like the idea of making a text game.
+We could set it up as a text adventure game and maybe even deploy it to a website. 
+If we wanted a real challenge I could try to find a way to make it a multiplayer one.
+Or instead of text we could make it visual. But that might be hard... But we got this!
