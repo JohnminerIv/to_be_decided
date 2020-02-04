@@ -19,7 +19,7 @@ const mimeTypes = {
 
 const server = http.createServer()
 server.on('request', (req, res) => {
-    const parsedUrl = new URL(req.url, 'http://127.0.0.1:5000/')
+    const parsedUrl = new URL(req.url, 'https://hidden-taiga-11992.herokuapp.com/')
   let pathName = parsedUrl.pathname
   let ext = path.extname(pathName)
 
